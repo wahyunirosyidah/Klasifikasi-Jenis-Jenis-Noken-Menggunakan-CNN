@@ -1,6 +1,6 @@
 # Klasifikasi-Jenis-Jenis-Noken-Menggunakan-CNN
 # Warning!
-Belum dilakukan riset lebih mendalam terkait jenis noken berdasarkan bahan dan suku. Pengelompokkan data dilakukan dengan perkiraan
+Belum dilakukan riset lebih mendalam terkait data jenis noken berdasarkan bahan dan suku. Pengelompokkan data dilakukan dengan metode perkiraan
 
 
 # Berdasarkan Bahan 
