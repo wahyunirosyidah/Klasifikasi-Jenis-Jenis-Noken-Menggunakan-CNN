@@ -45,6 +45,8 @@ The performance of our model was evaluated using test data
 |:---------------------:|:----------:|
 |  Mee  |  250  | 
 |  Sentani  |  250  | 
+|  Papua Tengah?  |  soon (maybe)  | 
+|  Asmat  |  still 107 data   | 
 
 ### Model
      ```
