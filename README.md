@@ -36,7 +36,7 @@ The performance of our model was evaluated using test data
 
 # Berdasarkan Suku
 ## Notebook
-
+[(TF)Klasifikasi Jenis-Jenis Noken Menggunakan CNN Berdasarkan Suku.ipynb](https://colab.research.google.com/drive/1ChimoRhIqoANkV6RdY6BRkPfVwBKjYvv#scrollTo=fCgF2wLrgfU9)
 
 ## Dataset
 [Dataset per Suku](https://drive.google.com/drive/folders/171SlrTmbl-reJQehzPlFZoavZY6HWYRh?usp=drive_link)
@@ -45,6 +45,10 @@ The performance of our model was evaluated using test data
 |:---------------------:|:----------:|
 |  Mee  |  250  | 
 |  Sentani  |  250  | 
+
+**Coming Soon?**
+|          Name         | Count | 
+|:---------------------:|:----------:|
 |  Papua Tengah?  |  soon (maybe)  | 
 |  Asmat  |  still 107 data   | 
 
@@ -60,3 +64,4 @@ The performance of our model was evaluated using test data
      
 #### Model Performance
 The performance of our model was evaluated using test data
+![image](https://github.com/user-attachments/assets/8e762269-47bb-410d-b020-7b75ccffd676)
