@@ -42,7 +42,6 @@
 
 ## Model
 ### Scratch
-     ```
 model=tf.keras.models.Sequential([
         data_augmentation,
         tf.keras.layers.Rescaling(1./255),
