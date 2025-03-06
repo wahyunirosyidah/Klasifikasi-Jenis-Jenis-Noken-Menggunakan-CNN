@@ -76,6 +76,7 @@ def create_model():
 ![image](https://github.com/user-attachments/assets/1b4a8f33-47d6-403d-b517-cd85b6338f4a)
 
 ## MobileNetV2 (use imagenet)
+
 ```
 # Membangun Model
 def create_model():
@@ -94,9 +95,11 @@ def create_model():
 
 ### Model Performance
 ![image](https://github.com/user-attachments/assets/d0508825-6b57-4449-a5fc-510c4a9a153b)
+
 | Validation Accuracy | Validation Loss | 
 |:---------------------:|:----------:|
 |  95.83 %  |  11.53 %  |
+
 ![image](https://github.com/user-attachments/assets/eaeb2464-a071-442e-a42e-9171e29736ef)
 ![image](https://github.com/user-attachments/assets/a14b68e5-8b47-4833-a7bc-e3a00ede81e5)
 
@@ -125,6 +128,7 @@ def create_model():
 ![image](https://github.com/user-attachments/assets/e25fc23c-3b6a-443a-94f1-76e2dd315b58)
 ![image](https://github.com/user-attachments/assets/b1cacaab-d8ad-4ffb-92ed-e2d5c7242aa8)
 
+```
 Classification Report:
               precision    recall  f1-score   support
 
@@ -134,6 +138,7 @@ Classification Report:
     accuracy                           0.99       100
    macro avg       0.99      0.99      0.99       100
 weighted avg       0.99      0.99      0.99       100
+```
 
 ## ResNet50 (use imagenet)
 ```
@@ -154,6 +159,7 @@ def create_model():
 | Validation Accuracy | Validation Loss | 
 |:---------------------:|:----------:|
 |  97.92 %  |  7.27 %  |
+
 ![image](https://github.com/user-attachments/assets/ed9aa328-a07c-4044-b70c-357b4f03b766)
 ![image](https://github.com/user-attachments/assets/da6ef98d-f689-470c-bccd-90d35c92a90f)
 
@@ -177,8 +183,12 @@ def create_model():
 | Validation Accuracy | Validation Loss | 
 |:---------------------:|:----------:|
 |  95.83 %  |  51.04 %  |
+
+
 ![image](https://github.com/user-attachments/assets/e85d27df-42a9-4692-8a21-ae56968daec7)
 ![image](https://github.com/user-attachments/assets/0e7af1c5-3e85-40e4-a32c-3bfcd0cc36b8)
+
+```
 Classification Report:
               precision    recall  f1-score   support
 
@@ -188,3 +198,4 @@ Classification Report:
     accuracy                           0.95       100
    macro avg       0.95      0.95      0.95       100
 weighted avg       0.95      0.95      0.95       100
+```
